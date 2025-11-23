@@ -1,7 +1,7 @@
 ﻿# app.py
 # CellGuard.AI — Streamlit Dashboard (Robust, Informative, Info-buttons)
 # Built as an enhanced, fault-tolerant version of your original app. 
-# Keep this file as the Streamlit entrypoint.
+# Keep this file as the Streamlit entrypoint
 # Requirements: streamlit, pandas, numpy, scikit-learn, plotly
 
 
@@ -474,4 +474,5 @@ def main():
 
 
     st.markdown("---")
-    st.caption("CellGuard.AI — now tolerant to messy files, clearer U
+    
+
